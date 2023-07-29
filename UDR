@@ -91,3 +91,5 @@ resource "azurerm_subnet_route_table_association" "amrish-rtb-association" {
   subnet_id      = azurerm_subnet.SUBNET-4.id
   route_table_id = azurerm_route_table.amrish_rtb.id
 }
+
+Thank you
