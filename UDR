@@ -94,4 +94,4 @@ resource "azurerm_subnet_route_table_association" "amrish-rtb-association" {
 
 Lets work plz 
 
-
+It is Monday morning plz. 
