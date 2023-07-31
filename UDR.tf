@@ -92,9 +92,3 @@ resource "azurerm_subnet_route_table_association" "amrish-rtb-association" {
   route_table_id = azurerm_route_table.amrish_rtb.id
 }
 
-Today is a good day.
-It is breakfast time.
-i will make a change plz
-Good night.
-
-tomorrow is tuesday. Have a nice day. 
