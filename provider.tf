@@ -3,7 +3,8 @@ provider "azurerm" {
   features {}
 }
 terraform {
-    required_providers {
-    version = "~> 1.0"
+  required_version = "~> 0.13"
+  required_providers {
+    azurerm = "~> 2.0"
   }
 }
